@@ -2,9 +2,9 @@ from htmldown import download_html
 from htmltojson import batch_convert
 
 # Set the URL and filepath
-url = 'https://developer.harness.io/docs/'
+url = 'URL'
 depth = 5
-download_filepath = '/Users/christopherdickson/Downloads/harness'
+download_filepath = 'filepath'
 
 # Call the download_html function
 # download_html(url, depth, download_filepath)
